@@ -1,0 +1,14 @@
+{
+  "name": "claude-law-firm",
+  "author": "shreyas-lyzr",
+  "description": "Claude-native legal AI agent for boutique law firms. Contract review, tracked-changes editing, drafting, client comms, research, and policy writing.",
+  "repository": "https://github.com/shreyas-lyzr/claude-law-firm",
+  "version": "1.0.0",
+  "category": "compliance",
+  "tags": ["legal", "contract-review", "law-firm", "compliance", "drafting", "research"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
